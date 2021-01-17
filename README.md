@@ -1,4 +1,4 @@
-# Lab 6 - Weather App
+# Weather App
 
 Web application developed for exercise in preparation for Computer Graphics exam
 at [Politecnico di Torino](https://www.polito.it/).
